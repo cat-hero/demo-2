@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "test-2-6245b"
+  },
+  "targets": {
+    "test-2-6245b": {
+      "hosting": {
+        "prod": [
+          "test-2-6245b"
+        ],
+        "staging": [
+          "test-staging-asd"
+        ]
+      }
+    }
+  }
+}
